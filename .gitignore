@@ -1,9 +1,10 @@
 [Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-Assets/AssetStoreTools*
+Rogue Mage/[Ll]ibrary/
+Rogue Mage/[Tt]emp/
+Rogue Mage/[Oo]bj/
+Rogue Mage/[Bb]uild/
+Rogue Mage/[Bb]uilds/
+Rogue Mage/Assets/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
